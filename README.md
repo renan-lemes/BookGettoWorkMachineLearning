@@ -10,25 +10,25 @@ Este livro prático aborda os fundamentos e técnicas avançadas de aprendizado 
 
 O livro cobre uma ampla gama de tópicos, incluindo:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
+1. O Cenario de Aprendizado de Máquina
+2. Projeto de Aprendizado de Máquina de Ponta a Ponta
+3. Classificação
+4. Treinamento de Modelos
+5. Máquina de Vetores de Suporte
+6. Àrvore de Decisão
+7. Aprendizado Ensemble e Floresta Aleatória
+8. Redução de Dimensionalidade
+9. Técnincas de Aprendizado Não Supervisionado
+10. Introdução às Redes Neurais Artificiais com a Bliblioteca Keras
+11. Treinando Redes Neurais Profundas
+12. Modelos Customizados e Treinados com a Bliblioteca TensorFlow
+13. Carregamento e Pré-processando Dados com o TensorFlow
+14. Visão Computacional Detalhada das Redes Neurais Convulucionais
+15. Processamento de Sequências Usando RNN e CNNs
+16. Processamento de Linguagem Natural com RNNs e Mecanismos de Atenção
+17. Aprendizado de Reprezentação e Aprendizado Generativo com Autoencoders e GANs
+18. Aprendizado por Reforço
+19. Treinamento e Implementação de Modelos TensorFlow em Larga Escala
 
 ## Notebooks
 
